@@ -1,5 +1,5 @@
 remote_theme: pages-themes/tactile@v0.2.0
 title: Gonçalo's Portfolio
-description: Here you'll find all the projects I've worked on
+description: Programmer and Audio Designer
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
