@@ -1,3 +1,3 @@
-layout: page
+layout: default
 title: Contact
 permalink: /about/contact/
